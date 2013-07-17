@@ -3,10 +3,10 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>-webkit-mask-image:${1:gradient or image}; /* Webkit */
-   -moz-mask-image:$1; /* Mozilla */
-     -o-mask-image:$1; /* Opera */
-        mask-image:$1; /* Universal */ $0</string>
+	<string>-webkit-mask-image: ${1:gradient or image}; /* Webkit */
+   -moz-mask-image: $1; /* Mozilla */
+     -o-mask-image: $1; /* Opera */
+        mask-image: $1; /* Universal */$0</string>
 	<key>name</key>
 	<string>mask-image</string>
 	<key>scope</key>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>-webkit-tap-highlight-color:rgba(${1:0},${2:0},${3:0},${4:0.1}); $0</string>
+	<string>-webkit-tap-highlight-color: rgba(${1:0}, ${2:0}, ${3:0}, ${4:0.1});$0</string>
 	<key>name</key>
 	<string>webkit-tap-highlight-color</string>
 	<key>scope</key>

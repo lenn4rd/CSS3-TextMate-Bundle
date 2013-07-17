@@ -3,10 +3,10 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>-webkit-transition-timing-function:${1:ease | linear | ease-in | ease-out | ease-in-out | cubic-bezier(&lt;number&gt;, &lt;number&gt;, &lt;number&gt;, &lt;number&gt;) [, ease | linear | ease-in | ease-out | ease-in-out | cubic-bezier(&lt;number&gt;, &lt;number&gt;, &lt;number&gt;, &lt;number&gt;)]*};		
-   -moz-transition-timing-function:$1;
-     -o-transition-timing-function:$1;
-        transition-timing-function:$1; $0</string>
+	<string>-webkit-transition-timing-function: ${1:ease | linear | ease-in | ease-out | ease-in-out | cubic-bezier(&lt;number&gt;, &lt;number&gt;, &lt;number&gt;, &lt;number&gt;) [, ease | linear | ease-in | ease-out | ease-in-out | cubic-bezier(&lt;number&gt;, &lt;number&gt;, &lt;number&gt;, &lt;number&gt;)]*};		
+   -moz-transition-timing-function: $1;
+     -o-transition-timing-function: $1;
+        transition-timing-function: $1;$0</string>
 	<key>name</key>
 	<string>transition-timing-function</string>
 	<key>scope</key>

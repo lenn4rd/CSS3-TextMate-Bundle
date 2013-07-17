@@ -3,10 +3,10 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>-webkit-user-focus-pointer:${1:auto | normal | select-all | select-before | select-after | select-same | select-menu | inherit}; /* Webkit */
-   -moz-user-focus-pointer:$1; /* Mozilla */
-     -o-user-focus-pointer:$1; /* Opera */
-        user-focus-pointer:$1; /* Universal */ $0</string>
+	<string>-webkit-user-focus-pointer: ${1:auto | normal | select-all | select-before | select-after | select-same | select-menu | inherit}; /* Webkit */
+   -moz-user-focus-pointer: $1; /* Mozilla */
+     -o-user-focus-pointer: $1; /* Opera */
+        user-focus-pointer: $1; /* Universal */$0</string>
 	<key>name</key>
 	<string>user-focus-pointer</string>
 	<key>scope</key>

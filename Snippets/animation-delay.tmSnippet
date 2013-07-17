@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>-webkit-animation-delay:${1:&lt;time&gt; [, &lt;time&gt;]*};		
-   -moz-animation-delay:$1;
-        animation-delay:$1; $0</string>
+	<string>-webkit-animation-delay: ${1:&lt;time&gt; [, &lt;time&gt;]*};		
+   -moz-animation-delay: $1;
+        animation-delay: $1;$0</string>
 	<key>name</key>
 	<string>animation-delay</string>
 	<key>scope</key>

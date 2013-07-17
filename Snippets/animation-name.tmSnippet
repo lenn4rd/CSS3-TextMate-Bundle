@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>-webkit-animation-name:${1:AnimationName};		
-   -moz-animation-name:$1;
-        animation-name:$1; $0</string>
+	<string>-webkit-animation-name: ${1:AnimationName};		
+   -moz-animation-name: $1;
+        animation-name: $1;$0</string>
 	<key>name</key>
 	<string>animation-name</string>
 	<key>scope</key>

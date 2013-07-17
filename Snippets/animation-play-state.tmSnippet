@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>-webkit-animation-play-state:${1:running | paused [, running | paused]*};		
-   -moz-animation-play-state:$1;
-        animation-play-state:$1; $0</string>
+	<string>-webkit-animation-play-state: ${1:running | paused [, running | paused]*};		
+   -moz-animation-play-state: $1;
+        animation-play-state: $1;$0</string>
 	<key>name</key>
 	<string>animation-play-state</string>
 	<key>scope</key>

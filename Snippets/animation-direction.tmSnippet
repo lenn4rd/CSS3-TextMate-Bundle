@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>-webkit-animation-direction:${1:normal | alternate [, normal | alternate]*};		
-   -moz-animation-direction:$1;
-        animation-direction:$1; $0</string>
+	<string>-webkit-animation-direction: ${1:normal | alternate [, normal | alternate]*};		
+   -moz-animation-direction: $1;
+        animation-direction: $1;$0</string>
 	<key>name</key>
 	<string>animation-direction</string>
 	<key>scope</key>
