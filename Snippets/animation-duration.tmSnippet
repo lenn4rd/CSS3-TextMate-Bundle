@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>-webkit-animation-duration:${1:2s};		
-   -moz-animation-duration:$1;
-        animation-duration:$1; $0</string>
+	<string>-webkit-animation-duration: ${1:2}s;		
+   -moz-animation-duration: $1s;
+        animation-duration: $1s;$0</string>
 	<key>name</key>
 	<string>animation-duration</string>
 	<key>scope</key>

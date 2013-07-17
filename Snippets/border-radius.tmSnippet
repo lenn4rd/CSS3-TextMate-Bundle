@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>-webkit-border-radius:${1:5px}; /* Saf3+, Chrome */
-   -moz-border-radius:$1; /* FF1+ */
-        border-radius:$1; /* Opera 10.5, IE 9 */ $0</string>
+	<string>-webkit-border-radius: ${1:5}px; /* Safari 3+, Chrome */
+   -moz-border-radius: $1px; /* FF1+ */
+        border-radius: $1px; /* Opera 10.5, IE 9 */$0</string>
 	<key>name</key>
 	<string>border-radius</string>
 	<key>scope</key>

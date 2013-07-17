@@ -3,12 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string> -webkit-border-top-left-radius:${1:5px}; /* Saf3+, Chrome */
--webkit-border-top-right-radius:$1;
-	  -moz-border-radius-topleft:$1; /* FF1+ */
-	 -moz-border-radius-topright:$1;
-	      border-top-left-radius:$1; /* Opera 10.5, IE 9 */ 
-	     border-top-right-radius:$1; $0</string>
+	<string> -webkit-border-top-left-radius: ${1:5}px; /* Safari 3+, Chrome */
+-webkit-border-top-right-radius: $1px;
+	   -moz-border-radius-topleft: $1px; /* FF1+ */
+	  -moz-border-radius-topright: $1px;
+	       border-top-left-radius: $1px; /* Opera 10.5, IE 9 */ 
+	      border-top-right-radius: $1px;$0</string>
 	<key>name</key>
 	<string>border-radius-top</string>
 	<key>scope</key>

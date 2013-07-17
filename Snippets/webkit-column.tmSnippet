@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>-webkit-column-count:${1:2}; 
--webkit-column-rule:${2:1}px ${3:solid} ${4:#bbb};
--webkit-column-gap:${5:2}em; $0</string>
+	<string>-webkit-column-count: ${1:2}; 
+-webkit-column-rule: ${2:1}px ${3:solid} #${4:bbb};
+-webkit-column-gap: ${5:2}em;$0</string>
 	<key>name</key>
 	<string>webkit-column</string>
 	<key>scope</key>

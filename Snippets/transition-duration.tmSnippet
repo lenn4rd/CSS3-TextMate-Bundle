@@ -3,10 +3,10 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>-webkit-transition-duration:${1:0.1s};		
-   -moz-transition-duration:$1;		
-     -o-transition-duration:$1;
-        transition-duration:$1; $0</string>
+	<string>-webkit-transition-duration: ${1:0.1}s;		
+   -moz-transition-duration: $1s;
+     -o-transition-duration: $1s;
+        transition-duration: $1s;$0</string>
 	<key>name</key>
 	<string>transition-duration</string>
 	<key>scope</key>
